@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>
+    <div className='Home'>
          <div className='text-box'>
             <h1>Satara's Biggest IT Institute of 10+ Students</h1>
             <p>Our Aim to Make Students From No Where To Some Where</p>
